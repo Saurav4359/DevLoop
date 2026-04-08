@@ -148,7 +148,7 @@
   }
 
   header {
-    @apply glass sticky top-0 z-50;
+    @apply glass sticky top-0 z-50 mt-5 rounded-4xl mx-10;
 
     nav {
       @apply flex flex-row justify-between mx-auto container sm:px-10 px-5 py-4;

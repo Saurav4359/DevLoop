@@ -1,6 +1,11 @@
-# DevEvent
+# DevLoop
 
-DevEvent is a Next.js event listing app for developer meetups, conferences, and workshops. It shows featured events on the homepage and lets users open a detailed event page with the agenda, organizer info, and booking form.
+DevLoop is a Next.js event listing app for developer meetups, conferences, and workshops. It shows featured events on the homepage and lets users open a detailed event page with the agenda, organizer info, and booking form.
+
+
+
+https://github.com/user-attachments/assets/1357fa05-c8b1-447e-b0f2-61e74264765e
+
 
 ## What it does
 
